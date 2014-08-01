@@ -1,0 +1,22 @@
+{
+  "name": "pdf-with-page-views",
+  "version": "0.0.0",
+  "description": "pdf-with-page-views ===================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfarthin/pdf-with-page-views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfarthin/pdf-with-page-views/issues"
+  },
+  "homepage": "https://github.com/sfarthin/pdf-with-page-views",
+  "dependencies": {
+    "express": "^4.7.2"
+  }
+}
